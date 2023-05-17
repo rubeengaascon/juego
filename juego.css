@@ -65,19 +65,4 @@ header {
     font-size: 25px;
 
 }
-.detener{
-    width: 100px;
-    display: inline-block;
-    padding: 15px;
-    margin: 20px;
-    padding: 2%;
-}
-.detener img {
-    width: 100px;
-}
-.detener:hover {
-    background-color: rgb(6, 118, 133);
-    cursor: pointer;
-    border-radius: 20%;
-    padding: 2%;
-}
+
